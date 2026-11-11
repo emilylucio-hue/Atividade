@@ -7,7 +7,7 @@ de uma clínica veterinária.
 
 
 ## Integrantes
-[Seu nome]
+Giovana
 Emily
 Ana
 Kety
@@ -29,4 +29,4 @@ Clinica: cadastra, lista e busca animais.
 
 
              Clinica
-        (guarda os animais)gi
+        (guarda os animais)
